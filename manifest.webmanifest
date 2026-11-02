@@ -1,7 +1,7 @@
 {
  "name": "Fórmula Pixel",
  "short_name": "Fórmula Pixel",
- "description": "Corrida de subida em pixel art com 7 carros de F1, 5 pistas e suporte a controle, boost, flips e loja de upgrades. Jogue grátis no celular ou no PC, direto no navegador.",
+ "description": "Corrida de subida em pixel art com 7 carros de F1, 5 pistas, capacetes de pilotos e suporte a controle, boost, flips e loja de upgrades. Jogue grátis no celular ou no PC, direto no navegador.",
  "lang": "pt-BR",
  "start_url": "./",
  "scope": "./",
