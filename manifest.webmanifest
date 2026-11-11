@@ -36,5 +36,12 @@
    "type": "image/png",
    "purpose": "maskable"
   }
- ]
+ ],
+ "related_applications": [
+  {
+   "platform": "webapp",
+   "url": "https://formula-pixel.vercel.app/manifest.webmanifest"
+  }
+ ],
+ "prefer_related_applications": false
 }
