@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://formula-pixel.vercel.app/sitemap.xml
